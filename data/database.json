@@ -1,0 +1,33 @@
+{
+  "doctors": [
+    {
+      "id": 345,
+      "gpsId": 56789,
+      "title": "Herr",
+      "medicalTitle": "Dr. med",
+      "name": "John",
+      "firstname": "smith",
+      "address": "dfsadfa again",
+      "flagState": true
+    },
+    {
+      "id": 678,
+      "gpsId": 890,
+      "title": "Herr",
+      "medicalTitle": "Dr. med",
+      "name": "John2",
+      "firstname": "smith2",
+      "address": "some street3",
+      "flagState": false
+    },
+    {
+      "title": "",
+      "gpsId": 891,
+      "medicalTitle": "jgfd",
+      "name": "fhdsfh",
+      "firstname": "gfdg",
+      "address": "fgdsgh",
+      "id": 688
+    }
+  ]
+}
