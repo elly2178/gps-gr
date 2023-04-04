@@ -2,6 +2,7 @@
     <nav class="main-nav"> 
         <router-link :to="{name:'home'}"> Doctors</router-link>  
         <router-link :to="{name:'AddDoctor'}"> Add doctor</router-link>
+        <router-link :to="{name:'UploadData'}"> Upload Data</router-link>
     </nav>
      
     </template>
