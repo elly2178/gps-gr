@@ -11,7 +11,7 @@
         </div>
       </div>
       <div v-if="showAddress" class="adress">
-        <p>GPS ID: {{ doctor.gpsId}} </p>
+        <p>GPS ID: {{ doctor.id}} </p>
         <p>Adresse: {{ doctor.address }} </p>
         
       </div>

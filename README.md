@@ -20,3 +20,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Start database
 json-server --watch data/database.json
+
+### Install Package for converting csv to json
+npm install csvtojson

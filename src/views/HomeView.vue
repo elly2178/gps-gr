@@ -28,7 +28,7 @@ export default {
   },
   mounted(){
     // fetch the data from the database! -> asnincron 
-    fetch('  http://localhost:3000/doctors')
+    fetch('http://localhost:3000/doctors')
       .then(response => response.json())
       .then(data => this.doctors = data)
       .catch(err => console.log(err.message))
